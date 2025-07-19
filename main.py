@@ -1,2 +1,2 @@
 import os
-print("Starting the application...")
+print("Iniciando Aplicacion")
